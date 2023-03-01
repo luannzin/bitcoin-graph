@@ -1,0 +1,39 @@
+input {
+  color: #121214;
+  border-radius: 8px;
+  border: none;
+  padding: 0.25rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  max-width: 20vw;
+  gap: 0.5rem;
+}
+
+form span {
+  font-size: 0.75rem;
+}
+
+button {
+  color: #121214;
+  border-radius: 8px;
+  border: none;
+  padding: 0.25rem 0.75rem;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button:active {
+  transform: scale(0.9);
+}
+
+.wrapper {
+  min-width: 70vw;
+  max-height: 70vh;
+}

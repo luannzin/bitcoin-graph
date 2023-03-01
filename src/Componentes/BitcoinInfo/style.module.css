@@ -1,0 +1,33 @@
+.wrapper {
+  max-width: 30vw;
+  min-height: calc(100vh - 5rem);
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-right: 4rem;
+  border-right: 2px solid white;
+}
+
+header p {
+  color: #f5f749;
+  font-size: 2rem;
+  margin: 0 0 5rem 0;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
+
+.info img {
+  width: 16rem;
+  margin: 0 0 1.25rem 0;
+}
+
+.info span {
+  font-size: 4rem;
+}
+
+.info p {
+  font-size: 1.5rem;
+}
