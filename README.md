@@ -11,7 +11,7 @@
 
 ## Criação
 
-- **********************************************************Para criar os gráficos foi utilizada uma biblioteca chamada “[react-chartjs-2](https://react-chartjs-2.js.org/)”, inserindo o componente “Line” na aplicação e passando os parâmetros necessários para formar o gráfico de linhas.**
+- **Para criar os gráficos foi utilizada uma biblioteca chamada “[react-chartjs-2](https://react-chartjs-2.js.org/)”, inserindo o componente “Line” na aplicação e passando os parâmetros necessários para formar o gráfico de linhas.**
 - ********************************A aplicação foi dividida em dois componentes, sendo eles:********************************
     - ****************BitcoinInfo, responsável por mostrar os dados da moeda, como, nome e valor atual.****************
     - ************************************BitcoinGraph, responsável por mostrar o gráfico e realizar a operação de consumir a API, juntamente com os “inputs” de data.************************************
